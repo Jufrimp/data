@@ -1,0 +1,2 @@
+# data
+ini data dinas
